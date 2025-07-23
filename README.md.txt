@@ -4,7 +4,7 @@
 *Interactive visualization of sales trends*
 
 ## Project Overview
-Analyzed 1,500+ sales records to identify revenue drivers and optimize business strategy using:
+Analyzed sales records to identify revenue drivers and optimize business strategy using:
 - **MySQL** for data processing
 - **Python** (Pandas + Plotly) for interactive visualizations
 - **Excel** for initial data cleaning
